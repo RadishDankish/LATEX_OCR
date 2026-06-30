@@ -1,0 +1,2 @@
+# LATEX_OCR
+uses CNN+LSTM
